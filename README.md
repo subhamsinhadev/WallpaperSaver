@@ -34,7 +34,7 @@ Many users lose their wallpapers after changing them, making it hard to find the
 🛠 Installation & Usage
 
 1. Clone the repository:
-bash ```
+``` bash
 git clone https://github.com/subhamsinhadev/WallpaperSaver
 ```
 
